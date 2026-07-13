@@ -31,9 +31,9 @@ This dashboard provides a centralized view to answer these questions through int
 
 ---
 
-# 📁 Dataset
+# 📁 Dataset 
 
-**Dataset:** Data Professional Survey
+**Dataset:** Data Professional Survey(Dataset)
 
 The dataset contains survey responses from professionals working in various data-related roles across multiple countries.
 
