@@ -203,7 +203,7 @@ Salary satisfaction scores were noticeably lower than work-life balance, suggest
 
 ### Overall Dashboard
 
-Dashboard_images/Data_Profession_Dashboard_Overview.pdf
+![Overall Dashboard](Dashboard_images/Data_Profession_Dashboard_Overview.pdf)
 
 ---
 
