@@ -33,7 +33,7 @@ This dashboard provides a centralized view to answer these questions through int
 
 # 📁 Dataset 
 
-**Dataset:** Data Professional Survey(Dataset/Power BI - Final Project.xlsx)
+**Dataset:** Data Professional Survey
 
 The dataset contains survey responses from professionals working in various data-related roles across multiple countries.
 
@@ -203,7 +203,7 @@ Salary satisfaction scores were noticeably lower than work-life balance, suggest
 
 ### Overall Dashboard
 
-*(Insert Dashboard Screenshot Here)*
+*(Dashboard_images/Data_Profession_Dashboard_Overview.pdf)*
 
 ---
 
