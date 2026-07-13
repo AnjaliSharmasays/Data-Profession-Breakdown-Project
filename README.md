@@ -215,7 +215,7 @@ Dashboard_images/Filtered_by_country.png.png
 
 ### Gender-Based Analysis
 
-*(Insert Gender Filter Screenshot Here)*
+(Dashboard_images/Filtered_by_female.png.png)
 
 ---
 
