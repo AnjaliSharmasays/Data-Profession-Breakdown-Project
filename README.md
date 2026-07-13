@@ -209,13 +209,13 @@ Salary satisfaction scores were noticeably lower than work-life balance, suggest
 
 ### Country Filter Analysis
 
-Dashboard_images/Filtered_by_country.png.png
+![Country Filtered Dashboard](Dashboard_images/Filtered_by_country.png.png)
 
 ---
 
 ### Gender-Based Analysis
 
-(Dashboard_images/Filtered_by_female.png.png)
+![Gender Filtered Dashboard](Dashboard_images/Filtered_by_female.png.png)
 
 ---
 
@@ -252,7 +252,7 @@ Key takeaways include:
 # 📂 Repository Structure
 
 ```text
-Data-Professional-Survey-Breakdown/
+Data-Professional-Breakdown-Project/
 │
 ├── Dashboard/
 │   └── Data Professional Survey Breakdown.pbix
@@ -261,7 +261,7 @@ Data-Professional-Survey-Breakdown/
 │   └── Power BI - Final Project.xlsx
 │
 ├── Images/
-│   ├── dashboard-overview.png
+│   ├── dashboard-overview.pdf
 │   ├── country-filter.png
 │   ├── female-filter.png
 │   └── male-filter.png
@@ -275,7 +275,7 @@ Data-Professional-Survey-Breakdown/
 
 **Anjali Sharma**
 
-B.Tech AIDS (2023–2027)
+B.Tech AI-DS (2023–2027)
 
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
